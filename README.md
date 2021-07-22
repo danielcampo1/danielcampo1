@@ -4,11 +4,11 @@ Full Stack Software Engineer with specialities in Ruby on Rails, JavaScript, and
 
 ## projects 🎨
 
-💪    **Workout Tracker** [demo] Coming soon! | [frontend Repo](https://github.com/danielcampo1/gym-frontend) | [Backend Repo](https://github.com/danielcampo1/gym-backend) 
+💪    **Workout Tracker** [demo](https://youtu.be/Yy7HE8XKyQ8) | [frontend Repo](https://github.com/danielcampo1/gym-frontend) | [Backend Repo](https://github.com/danielcampo1/gym-backend) 
 
 ✈️    **Travel Bug** [demo] soon | [Frontend/Backend Repo](https://github.com/danielcampo1/rails-project)
 
-💸    **Neighborhood For Sale** [demo] soon | [Frontend/Backend Repo](https://github.com/danielcampo1/neighborhood-sale)
+💸    **Neighborhood For Sale** [demo](https://youtu.be/b8Ec2eJHMeI) | [Frontend/Backend Repo](https://github.com/danielcampo1/neighborhood-sale)
 
 ## Contact me 📬
 

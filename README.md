@@ -13,16 +13,17 @@ Full Stack Software Engineer with specialities in Ruby on Rails, JavaScript, and
 ## Contact me 📬
 
 <p>
-  <a href="https://www.linkedin.com/in/daniel-campo/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/daniel-campo/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="40" width="40" /></a>
+  <a href="https://twitter.com/_danielcampo"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="40" width="40"/> </a>
  </p><br/>
  
  ## Skills 🖥️
  
  <p align="left">
-  <img src="https://icongr.am/devicon/html5-plain.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/css3-plain.svg?size=128&color=currentColor" alt="css3" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
-  <img src="https://i.imgur.com/rTNkWSQ.png" alt="react" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/ruby-plain.svg?size=128&color=currentColor" alt="ruby" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" align="left" width="45" height="45"/>
+  <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" align="left" width="45" height="45"/>
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="js" align="left" width="45" height="45"/>
+  <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" align="left" width="45" height="45"/>
+  <img src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" alt="ruby" align="left" width="45" height="45"/>
+  <img src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="45" height="45"/>
 </p>
